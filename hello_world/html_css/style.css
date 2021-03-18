@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3rem;
+    padding: 1rem 1.5rem;
+    border-radius: 10px;
+    background-color: red;
+}
