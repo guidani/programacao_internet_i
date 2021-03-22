@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 # Create your views here.
 def post_list(request):
- return HttpResponse('Olá Mundo!')
+ return HttpResponse('Olá Mundo! Tudo Funcionando! OK')
